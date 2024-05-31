@@ -1,0 +1,4 @@
+Cay Horstmann’s Unblog;https://horstmann.com/unblog/index.html;https://horstmann.com/unblog/rss.xml
+The Invent with Python Blog;https://inventwithpython.com/blog/;https://inventwithpython.com/blog/rss.xml
+Blog | Julia Silge;https://juliasilge.com/blog/;https://juliasilge.com/blog/index.xml
+Python-bloggers;https://python-bloggers.com/;https://python-bloggers.com/feed/
